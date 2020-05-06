@@ -1,2 +1,0 @@
-# WoZu
-Project Files
